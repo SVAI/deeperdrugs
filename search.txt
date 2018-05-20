@@ -1,0 +1,39 @@
+Driver genes?  STARD13, PRSS3, BARD1, PIF1, CHD1L, CDK9
+
+
+AHNAK:
+Doxorubicin resistance in breast cancer: A novel role for the human protein AHNAK
+
+ANXA11:
+Feasibility of novel PPP1R15A and proposed ANXA11 single nucleotide polymorphisms as predictive markers for bevacizumab regimen in metastatic 
+colorectal cancer
+
+AQP9:
+AQP9-induced cell cycle arrest is associated with RAS activation and improves chemotherapy treatment efficacy in colorectal cancer (5-FU)
+
+BARD1:
+Expression of an Oncogenic BARD1 Splice Variant Impairs Homologous Recombination and Predicts Response to PARP-1 Inhibitor Therapy in Colon Cancer
+
+CD24:
+Effect of curcumin on the cell surface markers CD44 and CD24 in breast cancer
+
+CDK9:
+Metabolic changes associated with metformin potentiates Bcl-2 inhibitor, Venetoclax, and CDK9 inhibitor, BAY1143572 and reduces viability of lymphoma 
+cells
+
+CHD1L:
+Tripartite Motif-containing 33 (TRIM33) protein functions in the poly(ADP-ribose) polymerase (PARP)-dependent DNA damage response through interaction 
+with Amplified in Liver Cancer 1 (ALC1) protein
+
+NOX5
+Leptin induces ROS via NOX5 in healthy and neoplastic mammary epithelial cells
+
+SLC22A2:
+Epigenetic activation of the drug transporter OCT2 sensitizes renal cell carcinoma to oxaliplatin
+
+TTBK2:
+PRKX, TTBK2 and RSK4 expression causes Sunitinib resistance in kidney carcinoma- and melanoma-cell lines
+
+USP39:
+Lentivirus-mediated inhibition of USP39 suppresses the growth of breast cancer cells in vitro
+
