@@ -1,0 +1,16 @@
+name: vcf-to-bigquery-pipeline
+inputParameters:
+- name: PROJECT_ID
+- name: OUTPUT_BUCKET
+- name: INPUT_FILE
+docker:
+  imageName: gcr.io/gcp-variant-transforms/gcp-variant-transforms
+  cmd: |
+    ./opt/gcp_variant_transforms/bin/vcf_to_bq \
+      --project "${PROJECT_ID}" \
+      --input_pattern gs://p1rcc/deepvariant/${INPUT_FILE}_deepvariant.vcf \
+      --output_table ${PROJECT_ID}:deepvariant.${INPUT_FILE} \
+      --staging_location gs://${OUTPUT_BUCKET}/${INPUT_FILE}/staging \
+      --temp_location gs://${OUTPUT_BUCKET}/${INPUT_FILE}/temp \
+      --job_name vcf-to-bigquery \
+      --runner DataflowRunner
